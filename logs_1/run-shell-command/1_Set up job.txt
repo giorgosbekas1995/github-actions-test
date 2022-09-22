@@ -1,0 +1,33 @@
+2022-09-22T10:07:00.8823690Z Current runner version: '2.296.2'
+2022-09-22T10:07:00.8866848Z ##[group]Operating System
+2022-09-22T10:07:00.8867573Z Ubuntu
+2022-09-22T10:07:00.8867956Z 20.04.5
+2022-09-22T10:07:00.8868245Z LTS
+2022-09-22T10:07:00.8869383Z ##[endgroup]
+2022-09-22T10:07:00.8870383Z ##[group]Runner Image
+2022-09-22T10:07:00.8870834Z Image: ubuntu-20.04
+2022-09-22T10:07:00.8871281Z Version: 20220905.1
+2022-09-22T10:07:00.8872010Z Included Software: https://github.com/actions/runner-images/blob/ubuntu20/20220905.1/images/linux/Ubuntu2004-Readme.md
+2022-09-22T10:07:00.8872759Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu20%2F20220905.1
+2022-09-22T10:07:00.8873312Z ##[endgroup]
+2022-09-22T10:07:00.8873756Z ##[group]Runner Image Provisioner
+2022-09-22T10:07:00.8874146Z 1.0.0.0-main-20220916-1
+2022-09-22T10:07:00.8874598Z ##[endgroup]
+2022-09-22T10:07:00.8875876Z ##[group]GITHUB_TOKEN Permissions
+2022-09-22T10:07:00.8876729Z Actions: write
+2022-09-22T10:07:00.8877127Z Checks: write
+2022-09-22T10:07:00.8877837Z Contents: write
+2022-09-22T10:07:00.8878258Z Deployments: write
+2022-09-22T10:07:00.8878621Z Discussions: write
+2022-09-22T10:07:00.8879011Z Issues: write
+2022-09-22T10:07:00.8879446Z Metadata: read
+2022-09-22T10:07:00.8879809Z Packages: write
+2022-09-22T10:07:00.8880208Z Pages: write
+2022-09-22T10:07:00.8880607Z PullRequests: write
+2022-09-22T10:07:00.8880990Z RepositoryProjects: write
+2022-09-22T10:07:00.8881496Z SecurityEvents: write
+2022-09-22T10:07:00.8881922Z Statuses: write
+2022-09-22T10:07:00.8882259Z ##[endgroup]
+2022-09-22T10:07:00.8886874Z Secret source: Actions
+2022-09-22T10:07:00.8888326Z Prepare workflow directory
+2022-09-22T10:07:01.0218815Z Prepare all required actions
